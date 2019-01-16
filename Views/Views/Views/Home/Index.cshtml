@@ -1,0 +1,18 @@
+﻿@model string[]
+@{ Layout = null;}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="Viewport" content="width=device-width" />
+    <title>Razor</title>
+    <link asp-href-include="lib/bootstrap/dist/css/*.min.css" rel="stylesheet" />
+</head>
+<body class="m-1 p-1">
+    this is a list of fruit names:
+    @foreach(string name in Model)
+    {
+        <span><b>@name</b></span>
+    }
+</body>
+</html>

@@ -12,3 +12,12 @@
 \\Mac\Home\Documents\Projects\Views\Views\obj\Debug\netcoreapp2.2\Views.RazorTargetAssemblyInfo.cache
 \\Mac\Home\Documents\Projects\Views\Views\obj\Debug\netcoreapp2.2\Views.dll
 \\Mac\Home\Documents\Projects\Views\Views\obj\Debug\netcoreapp2.2\Views.pdb
+\\Mac\Home\Documents\Projects\Views\Views\bin\Debug\netcoreapp2.2\Views.Views.dll
+\\Mac\Home\Documents\Projects\Views\Views\bin\Debug\netcoreapp2.2\Views.Views.pdb
+\\Mac\Home\Documents\Projects\Views\Views\obj\Debug\netcoreapp2.2\Views.TagHelpers.input.cache
+\\Mac\Home\Documents\Projects\Views\Views\obj\Debug\netcoreapp2.2\Views.TagHelpers.output.cache
+\\Mac\Home\Documents\Projects\Views\Views\obj\Debug\netcoreapp2.2\Views.RazorCoreGenerate.cache
+\\Mac\Home\Documents\Projects\Views\Views\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+\\Mac\Home\Documents\Projects\Views\Views\obj\Debug\netcoreapp2.2\Views.RazorTargetAssemblyInfo.cs
+\\Mac\Home\Documents\Projects\Views\Views\obj\Debug\netcoreapp2.2\Views.Views.pdb
+\\Mac\Home\Documents\Projects\Views\Views\obj\Debug\netcoreapp2.2\Views.csproj.CopyComplete
