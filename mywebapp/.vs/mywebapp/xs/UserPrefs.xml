@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{6AF740A3-07D5-4F57-8D58-82D64937A359}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Pages/Index.cshtml">
+    <Files>
+      <File FileName="appsettings.Development.json" Line="1" Column="1" />
+      <File FileName="Startup.cs" Line="19" Column="77" />
+      <File FileName="appsettings.json" Line="2" Column="74" />
+      <File FileName="mywebapp.csproj" Line="1" Column="1" />
+      <File FileName="Pages/Index.cshtml" Line="10" Column="30" />
+      <File FileName="Pages/Page.cshtml" Line="13" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="mywebapp" expanded="True">
+            <Node name="mywebapp" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Pages" expanded="True">
+                <Node name="Index.cshtml" selected="True" />
+              </Node>
+              <Node name="Properties" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.mywebapp PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

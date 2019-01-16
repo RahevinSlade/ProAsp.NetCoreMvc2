@@ -1,0 +1,11 @@
+\\Mac\Home\Documents\Projects\ConfiguringApps\ConfiguringApps\bin\Debug\netcoreapp2.0\ConfiguringApps.deps.json
+\\Mac\Home\Documents\Projects\ConfiguringApps\ConfiguringApps\bin\Debug\netcoreapp2.0\ConfiguringApps.runtimeconfig.json
+\\Mac\Home\Documents\Projects\ConfiguringApps\ConfiguringApps\bin\Debug\netcoreapp2.0\ConfiguringApps.runtimeconfig.dev.json
+\\Mac\Home\Documents\Projects\ConfiguringApps\ConfiguringApps\bin\Debug\netcoreapp2.0\ConfiguringApps.dll
+\\Mac\Home\Documents\Projects\ConfiguringApps\ConfiguringApps\bin\Debug\netcoreapp2.0\ConfiguringApps.pdb
+\\Mac\Home\Documents\Projects\ConfiguringApps\ConfiguringApps\obj\Debug\netcoreapp2.0\ConfiguringApps.csprojAssemblyReference.cache
+\\Mac\Home\Documents\Projects\ConfiguringApps\ConfiguringApps\obj\Debug\netcoreapp2.0\ConfiguringApps.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Projects\ConfiguringApps\ConfiguringApps\obj\Debug\netcoreapp2.0\ConfiguringApps.AssemblyInfoInputs.cache
+\\Mac\Home\Documents\Projects\ConfiguringApps\ConfiguringApps\obj\Debug\netcoreapp2.0\ConfiguringApps.AssemblyInfo.cs
+\\Mac\Home\Documents\Projects\ConfiguringApps\ConfiguringApps\obj\Debug\netcoreapp2.0\ConfiguringApps.dll
+\\Mac\Home\Documents\Projects\ConfiguringApps\ConfiguringApps\obj\Debug\netcoreapp2.0\ConfiguringApps.pdb

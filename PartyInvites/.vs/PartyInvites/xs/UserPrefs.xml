@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{87AD3F86-0158-4501-9B16-D858E70BC1A6}|Default">
+  <MonoDevelop.Ide.ItemProperties.PartyInvites PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="PartyInvites/Views/Home/ListResponses.cshtml">
+    <Files>
+      <File FileName="PartyInvites/Controllers/HomeController.cs" Line="39" Column="17" />
+      <File FileName="PartyInvites/Views/Home/MyView.cshtml" Line="11" Column="32" />
+      <File FileName="PartyInvites/Models/GuestResponse.cs" Line="18" Column="34" />
+      <File FileName="PartyInvites/Views/Home/RsvpForm.cshtml" Line="14" Column="53" />
+      <File FileName="PartyInvites/Models/Repository.cs" Line="17" Column="53" />
+      <File FileName="PartyInvites/Views/Home/Thanks.cshtml" Line="26" Column="1" />
+      <File FileName="PartyInvites/Views/Home/ListResponses.cshtml" Line="12" Column="29" />
+      <File FileName="PartyInvites/wwwroot/css/styles.css" Line="6" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

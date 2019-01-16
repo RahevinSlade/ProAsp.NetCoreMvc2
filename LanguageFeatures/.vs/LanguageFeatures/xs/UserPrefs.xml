@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{C9911C04-7072-490C-AA49-75841FEACF7E}|Default">
+  <MonoDevelop.Ide.ItemProperties.LanguageFeatures PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="LanguageFeatures/Models/MyAsyncMethods.cs">
+    <Files>
+      <File FileName="LanguageFeatures/Startup.cs" Line="8" Column="48" />
+      <File FileName="LanguageFeatures/Models/Product.cs" Line="15" Column="102" />
+      <File FileName="LanguageFeatures/Controllers/HomeController.cs" Line="101" Column="12" />
+      <File FileName="LanguageFeatures/Views/Home/Index.cshtml" Line="1" Column="1" />
+      <File FileName="LanguageFeatures/Models/ShoppingCart.cs" Line="19" Column="6" />
+      <File FileName="LanguageFeatures/Models/MyExtensionMethods.cs" Line="27" Column="18" />
+      <File FileName="LanguageFeatures/Models/MyAsyncMethods.cs" Line="2" Column="7" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

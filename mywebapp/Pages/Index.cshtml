@@ -1,0 +1,11 @@
+﻿@page
+@using Microsoft.Extensions.Configuration
+@inject IConfiguration Configuration
+
+<h1> Hello from the header of Razor Page!</h1>
+
+<h2>
+    @Configuration["Message"] 
+    @*Never forget to include the extensions and inject the Iconfiguration, Eventually we will make this 
+     availible to all pages*@
+</h2>

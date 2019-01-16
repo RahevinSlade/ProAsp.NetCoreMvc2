@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{4D867495-5A60-40B7-94A3-69A751B35089}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="WebApplicationDemo/WebApplicationDemo.csproj">
+    <Files>
+      <File FileName="WebApplicationDemo/Pages/_ViewImports.cshtml" Line="5" Column="34" />
+      <File FileName="WebApplicationDemo/Pages/Shared/_Layout.cshtml" Line="35" Column="49" />
+      <File FileName="WebApplicationDemo/Startup.cs" Line="28" Column="34" />
+      <File FileName="WebApplicationDemo/AppDbContext.cs" Line="9" Column="28" />
+      <File FileName="WebApplicationDemo/Customer.cs" Line="9" Column="75" />
+      <File FileName="WebApplicationDemo/Pages/Create.cshtml" Line="11" Column="13" />
+      <File FileName="WebApplicationDemo/Pages/Create.cshtml.cs" Line="14" Column="40" />
+      <File FileName="WebApplicationDemo/Pages/Index.cshtml" Line="5" Column="2" />
+      <File FileName="WebApplicationDemo/Pages/Index.cshtml.cs" Line="21" Column="57" />
+      <File FileName="WebApplicationDemo/WebApplicationDemo.csproj" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.WebApplicationDemo PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,14 @@
+/Users/rahevin/Projects/mywebapp/bin/Debug/netcoreapp2.2/mywebapp.deps.json
+/Users/rahevin/Projects/mywebapp/bin/Debug/netcoreapp2.2/mywebapp.runtimeconfig.json
+/Users/rahevin/Projects/mywebapp/bin/Debug/netcoreapp2.2/mywebapp.runtimeconfig.dev.json
+/Users/rahevin/Projects/mywebapp/bin/Debug/netcoreapp2.2/mywebapp.dll
+/Users/rahevin/Projects/mywebapp/bin/Debug/netcoreapp2.2/mywebapp.pdb
+/Users/rahevin/Projects/mywebapp/obj/Debug/netcoreapp2.2/mywebapp.csprojAssemblyReference.cache
+/Users/rahevin/Projects/mywebapp/obj/Debug/netcoreapp2.2/mywebapp.csproj.CoreCompileInputs.cache
+/Users/rahevin/Projects/mywebapp/obj/Debug/netcoreapp2.2/mywebapp.RazorAssemblyInfo.cache
+/Users/rahevin/Projects/mywebapp/obj/Debug/netcoreapp2.2/mywebapp.RazorAssemblyInfo.cs
+/Users/rahevin/Projects/mywebapp/obj/Debug/netcoreapp2.2/mywebapp.AssemblyInfoInputs.cache
+/Users/rahevin/Projects/mywebapp/obj/Debug/netcoreapp2.2/mywebapp.AssemblyInfo.cs
+/Users/rahevin/Projects/mywebapp/obj/Debug/netcoreapp2.2/mywebapp.RazorTargetAssemblyInfo.cache
+/Users/rahevin/Projects/mywebapp/obj/Debug/netcoreapp2.2/mywebapp.dll
+/Users/rahevin/Projects/mywebapp/obj/Debug/netcoreapp2.2/mywebapp.pdb

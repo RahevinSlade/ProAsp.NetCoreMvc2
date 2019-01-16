@@ -1,0 +1,14 @@
+\\Mac\Home\Documents\Projects\Views\Views\bin\Debug\netcoreapp2.2\Views.deps.json
+\\Mac\Home\Documents\Projects\Views\Views\bin\Debug\netcoreapp2.2\Views.runtimeconfig.json
+\\Mac\Home\Documents\Projects\Views\Views\bin\Debug\netcoreapp2.2\Views.runtimeconfig.dev.json
+\\Mac\Home\Documents\Projects\Views\Views\bin\Debug\netcoreapp2.2\Views.dll
+\\Mac\Home\Documents\Projects\Views\Views\bin\Debug\netcoreapp2.2\Views.pdb
+\\Mac\Home\Documents\Projects\Views\Views\obj\Debug\netcoreapp2.2\Views.csprojAssemblyReference.cache
+\\Mac\Home\Documents\Projects\Views\Views\obj\Debug\netcoreapp2.2\Views.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Projects\Views\Views\obj\Debug\netcoreapp2.2\Views.RazorAssemblyInfo.cache
+\\Mac\Home\Documents\Projects\Views\Views\obj\Debug\netcoreapp2.2\Views.RazorAssemblyInfo.cs
+\\Mac\Home\Documents\Projects\Views\Views\obj\Debug\netcoreapp2.2\Views.AssemblyInfoInputs.cache
+\\Mac\Home\Documents\Projects\Views\Views\obj\Debug\netcoreapp2.2\Views.AssemblyInfo.cs
+\\Mac\Home\Documents\Projects\Views\Views\obj\Debug\netcoreapp2.2\Views.RazorTargetAssemblyInfo.cache
+\\Mac\Home\Documents\Projects\Views\Views\obj\Debug\netcoreapp2.2\Views.dll
+\\Mac\Home\Documents\Projects\Views\Views\obj\Debug\netcoreapp2.2\Views.pdb

@@ -1,0 +1,4 @@
+\\Mac\Home\Documents\Projects\DependencyInjection\DependencyInjection.Tests\obj\Debug\netcoreapp2.2\DependencyInjection.Tests.csprojAssemblyReference.cache
+\\Mac\Home\Documents\Projects\DependencyInjection\DependencyInjection.Tests\obj\Debug\netcoreapp2.2\DependencyInjection.Tests.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Projects\DependencyInjection\DependencyInjection.Tests\obj\Debug\netcoreapp2.2\DependencyInjection.Tests.AssemblyInfoInputs.cache
+\\Mac\Home\Documents\Projects\DependencyInjection\DependencyInjection.Tests\obj\Debug\netcoreapp2.2\DependencyInjection.Tests.AssemblyInfo.cs

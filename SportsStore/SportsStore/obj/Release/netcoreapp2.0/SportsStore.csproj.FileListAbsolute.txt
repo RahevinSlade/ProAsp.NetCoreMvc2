@@ -1,0 +1,12 @@
+\\Mac\Home\Documents\Projects\SportsStore\SportsStore\bin\Release\netcoreapp2.0\SportsStore.deps.json
+\\Mac\Home\Documents\Projects\SportsStore\SportsStore\bin\Release\netcoreapp2.0\SportsStore.runtimeconfig.json
+\\Mac\Home\Documents\Projects\SportsStore\SportsStore\bin\Release\netcoreapp2.0\SportsStore.runtimeconfig.dev.json
+\\Mac\Home\Documents\Projects\SportsStore\SportsStore\bin\Release\netcoreapp2.0\SportsStore.dll
+\\Mac\Home\Documents\Projects\SportsStore\SportsStore\bin\Release\netcoreapp2.0\SportsStore.pdb
+\\Mac\Home\Documents\Projects\SportsStore\SportsStore\obj\Release\netcoreapp2.0\SportsStore.csprojAssemblyReference.cache
+\\Mac\Home\Documents\Projects\SportsStore\SportsStore\obj\Release\netcoreapp2.0\SportsStore.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Projects\SportsStore\SportsStore\obj\Release\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+\\Mac\Home\Documents\Projects\SportsStore\SportsStore\obj\Release\netcoreapp2.0\SportsStore.AssemblyInfoInputs.cache
+\\Mac\Home\Documents\Projects\SportsStore\SportsStore\obj\Release\netcoreapp2.0\SportsStore.AssemblyInfo.cs
+\\Mac\Home\Documents\Projects\SportsStore\SportsStore\obj\Release\netcoreapp2.0\SportsStore.dll
+\\Mac\Home\Documents\Projects\SportsStore\SportsStore\obj\Release\netcoreapp2.0\SportsStore.pdb

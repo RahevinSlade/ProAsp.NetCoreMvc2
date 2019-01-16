@@ -1,0 +1,34 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <link rel="stylesheet" asp-href-include="lib/bootstrap/dist/css/*.min.css" />
+    <title>@ViewBag.Title</title>
+    <style>
+        .input-validation-error {
+            border-color: red;
+            background-color: #fee;
+        }
+    </style>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jquery-validation-unobtrusive/3.2.11/jquery.validate.unobtrusive.min.js">
+</head>
+<body class="m-1 p-1">
+    <div class="row container-fluid bg-info p-2">
+        <div class="col">
+            <h4>@ViewBag.Title</h4>
+        </div>
+        <div class="col text-right">
+            <a class="btn btn-sm btn-primary"
+               asp-action="Logout" asp-controller="Account">
+                Log Out
+            </a>
+        </div>
+    </div>
+    @if (TempData["message"] != null)
+    {
+        <div class="alert alert-success">@TempData["message"]</div>
+    }
+    @RenderBody()
+</body>
+</html>

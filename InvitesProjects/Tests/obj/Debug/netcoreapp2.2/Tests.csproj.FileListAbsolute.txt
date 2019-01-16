@@ -1,0 +1,4 @@
+\\Mac\Home\Documents\Projects\InvitesProjects\Tests\obj\Debug\netcoreapp2.2\Tests.csprojAssemblyReference.cache
+\\Mac\Home\Documents\Projects\InvitesProjects\Tests\obj\Debug\netcoreapp2.2\Tests.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Projects\InvitesProjects\Tests\obj\Debug\netcoreapp2.2\Tests.AssemblyInfoInputs.cache
+\\Mac\Home\Documents\Projects\InvitesProjects\Tests\obj\Debug\netcoreapp2.2\Tests.AssemblyInfo.cs

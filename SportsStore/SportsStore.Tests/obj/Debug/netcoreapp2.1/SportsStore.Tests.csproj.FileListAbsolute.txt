@@ -1,0 +1,17 @@
+\\Mac\Home\Documents\Projects\SportsStore\SportsStore.Tests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+\\Mac\Home\Documents\Projects\SportsStore\SportsStore.Tests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+\\Mac\Home\Documents\Projects\SportsStore\SportsStore.Tests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+\\Mac\Home\Documents\Projects\SportsStore\SportsStore.Tests\bin\Debug\netcoreapp2.1\SportsStore.Tests.deps.json
+\\Mac\Home\Documents\Projects\SportsStore\SportsStore.Tests\bin\Debug\netcoreapp2.1\SportsStore.Tests.runtimeconfig.json
+\\Mac\Home\Documents\Projects\SportsStore\SportsStore.Tests\bin\Debug\netcoreapp2.1\SportsStore.Tests.runtimeconfig.dev.json
+\\Mac\Home\Documents\Projects\SportsStore\SportsStore.Tests\bin\Debug\netcoreapp2.1\SportsStore.Tests.dll
+\\Mac\Home\Documents\Projects\SportsStore\SportsStore.Tests\bin\Debug\netcoreapp2.1\SportsStore.Tests.pdb
+\\Mac\Home\Documents\Projects\SportsStore\SportsStore.Tests\bin\Debug\netcoreapp2.1\SportsStore.dll
+\\Mac\Home\Documents\Projects\SportsStore\SportsStore.Tests\bin\Debug\netcoreapp2.1\SportsStore.pdb
+\\Mac\Home\Documents\Projects\SportsStore\SportsStore.Tests\obj\Debug\netcoreapp2.1\SportsStore.Tests.csprojAssemblyReference.cache
+\\Mac\Home\Documents\Projects\SportsStore\SportsStore.Tests\obj\Debug\netcoreapp2.1\SportsStore.Tests.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Projects\SportsStore\SportsStore.Tests\obj\Debug\netcoreapp2.1\SportsStore.Tests.AssemblyInfoInputs.cache
+\\Mac\Home\Documents\Projects\SportsStore\SportsStore.Tests\obj\Debug\netcoreapp2.1\SportsStore.Tests.AssemblyInfo.cs
+\\Mac\Home\Documents\Projects\SportsStore\SportsStore.Tests\obj\Debug\netcoreapp2.1\SportsStore.Tests.csproj.CopyComplete
+\\Mac\Home\Documents\Projects\SportsStore\SportsStore.Tests\obj\Debug\netcoreapp2.1\SportsStore.Tests.dll
+\\Mac\Home\Documents\Projects\SportsStore\SportsStore.Tests\obj\Debug\netcoreapp2.1\SportsStore.Tests.pdb

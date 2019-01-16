@@ -1,0 +1,43 @@
+﻿@model IEnumerable<WorkingWithVisualStudio.Models.Product>
+
+@{  Layout = null; }
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Working with Visual Studio</title>
+    @*<link rel="stylesheet" href="~/css/bundle.min.css" /> @*we downloaded Bundler and Minifying*@
+    @*<link rel="stylesheet" href="~/css/second.css" />  we can save lines by selecting all files and right clicking to bundle them
+        <script src="~/js/bundle.min.js"></script>*@
+    @*<script src="~/js/fourth.js"></script> you can see the bundler in bundleconfig.json within the project*@
+    <link rel="stylesheet" href="/lib/bootstrap/dist/css/bootstrap.min.css" />
+
+</head>
+<body class="p-1">
+    <h3 class="text-center">Products</h3>
+    @*<p>Request Time: @DateTime.Now.ToString("HH:mm:ss")</p>*@
+    <table class="table table-bordered table-striped">
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Price</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var p in Model)
+            {
+                <tr>
+                    <td>@p.Name</td>
+                    <td>@($"{p.Price:C2}")</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+    <div class="text-center">
+        <a class="btn btn-primary" asp-action="AddProduct">
+            Add New Product
+        </a>
+    </div>
+</body>
+</html>
