@@ -21,3 +21,4 @@
 \\Mac\Home\Documents\Projects\Views\Views\obj\Debug\netcoreapp2.2\Views.RazorTargetAssemblyInfo.cs
 \\Mac\Home\Documents\Projects\Views\Views\obj\Debug\netcoreapp2.2\Views.Views.pdb
 \\Mac\Home\Documents\Projects\Views\Views\obj\Debug\netcoreapp2.2\Views.csproj.CopyComplete
+\\Mac\Home\Documents\Projects\Views\Views\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
