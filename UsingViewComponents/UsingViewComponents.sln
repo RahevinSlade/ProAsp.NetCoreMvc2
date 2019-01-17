@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.168
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsingViewComponents", "UsingViewComponents\UsingViewComponents.csproj", "{1CE36A86-102A-4175-811C-A389CB256ED8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UsingViewComponents", "UsingViewComponents\UsingViewComponents.csproj", "{1CE36A86-102A-4175-811C-A389CB256ED8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsingViewComponents.Tests", "UsingViewComponents.Tests\UsingViewComponents.Tests.csproj", "{ECEBACE0-E7A9-4A24-981D-68DFED1D4540}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{1CE36A86-102A-4175-811C-A389CB256ED8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1CE36A86-102A-4175-811C-A389CB256ED8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1CE36A86-102A-4175-811C-A389CB256ED8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECEBACE0-E7A9-4A24-981D-68DFED1D4540}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECEBACE0-E7A9-4A24-981D-68DFED1D4540}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECEBACE0-E7A9-4A24-981D-68DFED1D4540}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECEBACE0-E7A9-4A24-981D-68DFED1D4540}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

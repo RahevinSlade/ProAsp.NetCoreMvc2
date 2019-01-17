@@ -3,6 +3,7 @@ using Microsoft.AspNetCore.Mvc;
 using UsingViewComponents.Models;
 using Microsoft.AspNetCore.Mvc.ViewComponents;
 using Microsoft.AspNetCore.Mvc.Rendering;
+using Microsoft.AspNetCore.Html;
 
 namespace UsingViewComponents.Components
 {
@@ -16,18 +17,17 @@ namespace UsingViewComponents.Components
         }
         public IViewComponentResult Invoke(bool showList)
         {
-            //if (showList)
-            //{
-            //    return View("CityList", repository.Cities);
-            //}
-            //else
-            //{
+           if (showList)
+            {
+                return View("CityList", repository.Cities);
+            } else
+            {
                 return View(new CityViewModel
                 {
                     Cities = repository.Cities.Count(),
                     Population = repository.Cities.Sum(c => c.Population)
                 });
-           // }
+            }
         }
     }
 }
