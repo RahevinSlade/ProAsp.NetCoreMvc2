@@ -1,15 +1,12 @@
-﻿
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 
 namespace UsingViewComponents.Models
 {
-
     public interface IProductRepository
     {
         IEnumerable<Product> Products { get; }
         void AddProduct(Product newProduct);
     }
-
     public class MemoryProductRepository : IProductRepository
     {
         private List<Product> products = new List<Product> {
@@ -19,7 +16,6 @@ namespace UsingViewComponents.Models
         };
 
         public IEnumerable<Product> Products => products;
-
         public void AddProduct(Product newProduct)
         {
             products.Add(newProduct);

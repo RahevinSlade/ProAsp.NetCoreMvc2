@@ -5,13 +5,16 @@
     <title>@ViewBag.Title</title>
     @*<link asp-href-include="lib/bootstrap/dist/css/*.min.css" rel="stylesheet" />*@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 </head>
 <body class="m-1 p-1">
     <div class="bg-primary m-1 p-1">
         <div class="row text-white">
-            <div class="col-7"><h1>Products</h1></div>
-            <div class="col-5">
-                <div class="bg-info text-cent m-1 p-1">City Placeholder</div>
+            <div class="column"><h1 class="text-center">Products</h1></div>
+            <div class="column text-center">
+                @await  Component.InvokeAsync("Poco")
+                @*<div class="bg-info text-cent m-1 p-1">City Placeholder</div>*@
             </div>
         </div>
     </div>
