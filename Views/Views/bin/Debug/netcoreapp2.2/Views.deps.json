@@ -1,7 +1,7 @@
 {
   "runtimeTarget": {
     "name": ".NETCoreApp,Version=v2.2",
-    "signature": "a3a8368f252203969f96f0313fc305e68d11246d"
+    "signature": "d12c5dc6a4903c7c99a5b59845c8acb9da79adba"
   },
   "compilationOptions": {
     "defines": [
@@ -27,7 +27,8 @@
           "Microsoft.AspNetCore.App": "2.2.0",
           "Microsoft.AspNetCore.Razor.Design": "2.2.0",
           "Microsoft.NETCore.App": "2.2.0",
-          "bootstrap": "4.2.1"
+          "bootstrap": "4.2.1",
+          "jQuery": "3.3.1"
         },
         "runtime": {
           "Views.dll": {}
@@ -38,11 +39,11 @@
       },
       "bootstrap/4.2.1": {
         "dependencies": {
-          "jQuery": "3.0.0",
+          "jQuery": "3.3.1",
           "popper.js": "1.14.0"
         }
       },
-      "jQuery/3.0.0": {},
+      "jQuery/3.3.1": {},
       "Microsoft.NETCore.App/2.2.0": {
         "dependencies": {
           "Microsoft.NETCore.DotNetHostPolicy": "2.2.0",
@@ -3243,12 +3244,12 @@
       "path": "bootstrap/4.2.1",
       "hashPath": "bootstrap.4.2.1.nupkg.sha512"
     },
-    "jQuery/3.0.0": {
+    "jQuery/3.3.1": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-FXANjZia/vux9/ObNiPwh2zNWuzcgHMKXia1OQrviuf0OKPBWB2TBIVAICgtObuzEW+XLyaBEoVuOUlMXy0kNA==",
-      "path": "jquery/3.0.0",
-      "hashPath": "jquery.3.0.0.nupkg.sha512"
+      "sha512": "sha512-Emsts1D6E2AgHVBm4cTD2dxoRyWVG+3zK1x8mYbf+k6aAArPTXHR2Ip++o1utlNbmYIzaPFnhGw3YDexp8PjlQ==",
+      "path": "jquery/3.3.1",
+      "hashPath": "jquery.3.3.1.nupkg.sha512"
     },
     "Microsoft.NETCore.App/2.2.0": {
       "type": "package",
