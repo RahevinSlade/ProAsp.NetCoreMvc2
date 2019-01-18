@@ -27,3 +27,5 @@
 \\Mac\Home\Documents\Projects\UsingViewComponents\UsingViewComponents\obj\Debug\netcoreapp2.2\UsingViewComponents.pdb
 \\Mac\Home\Documents\Projects\UsingViewComponents\UsingViewComponents\obj\Debug\netcoreapp2.2\UsingViewComponents.csproj.CopyComplete
 \\Mac\Home\Documents\Projects\UsingViewComponents\UsingViewComponents\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Components\PageSize\Default.g.cshtml.cs
+\\Mac\Home\Documents\Projects\UsingViewComponents\UsingViewComponents\obj\Debug\netcoreapp2.2\Razor\Views\City\Create.g.cshtml.cs
+\\Mac\Home\Documents\Projects\UsingViewComponents\UsingViewComponents\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Components\ComboComponent\Default.g.cshtml.cs

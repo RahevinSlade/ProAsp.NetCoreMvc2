@@ -13,7 +13,8 @@
         <div class="row text-white">
             <div class="col-md-3"><h1>Products</h1></div>
             <div class="col-md-3" style="float:right">
-                @await Component.InvokeAsync("CitySummary", new { showList = true })
+                @await  Component.InvokeAsync("ComboComponent")
+                @*@await Component.InvokeAsync("CitySummary", new { showList = true })*@
                 @*@await  Component.InvokeAsync("Poco")*@
                 @*<div class="bg-info text-cent m-1 p-1">City Placeholder</div>*@
             </div>
