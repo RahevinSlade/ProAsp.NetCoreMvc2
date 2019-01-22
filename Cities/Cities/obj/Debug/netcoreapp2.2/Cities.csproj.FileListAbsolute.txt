@@ -14,6 +14,8 @@
 \\Mac\Home\Documents\Projects\Cities\Cities\obj\Debug\netcoreapp2.2\Cities.TagHelpers.input.cache
 \\Mac\Home\Documents\Projects\Cities\Cities\obj\Debug\netcoreapp2.2\Cities.TagHelpers.output.cache
 \\Mac\Home\Documents\Projects\Cities\Cities\obj\Debug\netcoreapp2.2\Cities.RazorCoreGenerate.cache
+\\Mac\Home\Documents\Projects\Cities\Cities\obj\Debug\netcoreapp2.2\Razor\Views\Home\Components\Time\Default.g.cshtml.cs
+\\Mac\Home\Documents\Projects\Cities\Cities\obj\Debug\netcoreapp2.2\Razor\Views\Home\Create.g.cshtml.cs
 \\Mac\Home\Documents\Projects\Cities\Cities\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
 \\Mac\Home\Documents\Projects\Cities\Cities\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
 \\Mac\Home\Documents\Projects\Cities\Cities\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
@@ -23,5 +25,3 @@
 \\Mac\Home\Documents\Projects\Cities\Cities\obj\Debug\netcoreapp2.2\Cities.dll
 \\Mac\Home\Documents\Projects\Cities\Cities\obj\Debug\netcoreapp2.2\Cities.pdb
 \\Mac\Home\Documents\Projects\Cities\Cities\obj\Debug\netcoreapp2.2\Cities.csproj.CopyComplete
-\\Mac\Home\Documents\Projects\Cities\Cities\obj\Debug\netcoreapp2.2\Razor\Views\Home\Create.g.cshtml.cs
-\\Mac\Home\Documents\Projects\Cities\Cities\obj\Debug\netcoreapp2.2\Razor\Views\Home\Components\Time\Default.g.cshtml.cs

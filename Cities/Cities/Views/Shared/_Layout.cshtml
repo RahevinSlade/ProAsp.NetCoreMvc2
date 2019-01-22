@@ -9,9 +9,13 @@
           asp-href-exclude="**/*-reboot*,**/*-grid*" />
 </head>
 <body class="m-1 p-1">
-    <cache expires-after="@TimeSpan.FromSeconds(15)">
+    <cache expires-sliding="@TimeSpan.FromSeconds(10)" 
+        vary-by-route="@ViewContext.RouteData.Values["action"]">
+        @*<cache expires-sliding="@TimeSpan.FromSeconds(10)" vary-by-route="action">*@ @*each page gets its own cache time*@
+        @*<cache expires-sliding="@TimeSpan.FromSeconds(10)">*@ @*maintains the cache if page is reloaded within 10 seconds*@
+        @*<cache expires-on="@DateTime.Parse("2100-01-01")">*@ @*holds the cache untill 2100*@
         @await Component.InvokeAsync("Time")
     </cache>
-        <div>@RenderBody()</div>
+    <div> @RenderBody() </div>
 </body>
 </html>
