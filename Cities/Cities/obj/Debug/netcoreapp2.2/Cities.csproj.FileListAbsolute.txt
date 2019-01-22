@@ -24,3 +24,4 @@
 \\Mac\Home\Documents\Projects\Cities\Cities\obj\Debug\netcoreapp2.2\Cities.pdb
 \\Mac\Home\Documents\Projects\Cities\Cities\obj\Debug\netcoreapp2.2\Cities.csproj.CopyComplete
 \\Mac\Home\Documents\Projects\Cities\Cities\obj\Debug\netcoreapp2.2\Razor\Views\Home\Create.g.cshtml.cs
+\\Mac\Home\Documents\Projects\Cities\Cities\obj\Debug\netcoreapp2.2\Razor\Views\Home\Components\Time\Default.g.cshtml.cs

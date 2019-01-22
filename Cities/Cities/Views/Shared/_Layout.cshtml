@@ -4,22 +4,14 @@
 <head>
     <meta name="viewport" content="width=device-width" />
     <title>Cities</title>
-    <scrip asp-src-include="/lib/jquery/dist/**/*.js"></scrip>
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <link rel="stylesheet"
+          asp-href-include="/lib/bootstrap/dist/**/*.css"
+          asp-href-exclude="**/*-reboot*,**/*-grid*" />
 </head>
 <body class="m-1 p-1">
-    <environment names="development">
-        <script asp-src-include="/lib.jquery/dist/**/j*.js"
-                asp-src-exclude="**.slim.**,**.min.**">
-        </script>
-    </environment>
-    <environment names="production">
-        <script asp-src-include="/lib.jquery/dist/**/*.min.js"
-                asp-src-exclude="**.slim.**,**.min.**">
-        </script>
-    </environment>
-    <div>@RenderBody()</div>
+    <cache expires-after="@TimeSpan.FromSeconds(15)">
+        @await Component.InvokeAsync("Time")
+    </cache>
+        <div>@RenderBody()</div>
 </body>
 </html>
