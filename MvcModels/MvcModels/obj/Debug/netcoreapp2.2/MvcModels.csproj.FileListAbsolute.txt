@@ -24,3 +24,4 @@
 \\Mac\Home\Documents\Projects\MvcModels\MvcModels\obj\Debug\netcoreapp2.2\MvcModels.csproj.CopyComplete
 \\Mac\Home\Documents\Projects\MvcModels\MvcModels\obj\Debug\netcoreapp2.2\MvcModels.csprojAssemblyReference.cache
 \\Mac\Home\Documents\Projects\MvcModels\MvcModels\obj\Debug\netcoreapp2.2\Razor\Views\Home\Create.g.cshtml.cs
+\\Mac\Home\Documents\Projects\MvcModels\MvcModels\obj\Debug\netcoreapp2.2\Razor\Views\Home\DisplaySummary.g.cshtml.cs
