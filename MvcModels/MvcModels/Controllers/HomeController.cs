@@ -1,6 +1,7 @@
 ﻿using MvcModels.Models;
 using Microsoft.AspNetCore.Mvc;
 using System.Linq;
+using System.Collections.Generic;
 // For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 
 namespace MvcModels.HomeController
@@ -34,5 +35,13 @@ namespace MvcModels.HomeController
         public ViewResult DisplaySummary(
             [Bind(Prefix = nameof(Person.HomeAddress))] AddressSummary summary) 
                 => View(summary);
+
+        //public ViewResult Names(string[] names) => View(names ?? new string[0]);
+
+        public ViewResult Names(IList<string> names) =>
+            View(names ?? new List<string>());
+
+        public ViewResult Address(IList<AddressSummary> addresses) =>
+            View(addresses ?? new List<AddressSummary>());
     }
 }
