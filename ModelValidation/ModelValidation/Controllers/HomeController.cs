@@ -13,21 +13,15 @@ namespace ModelValidation.Controllers
         [HttpPost]
         public ViewResult MakeBooking(Appointment appt)
         {
-            if (string.IsNullOrEmpty(appt.ClientName))
+            if(ModelState.GetValidationState(nameof(appt.Date))
+                    == ModelValidationState.Valid
+                 && ModelState.GetValidationState(nameof(appt.ClientName))
+                    == ModelValidationState.Valid
+                 && appt.ClientName.Equals("Joe", StringComparison.OrdinalIgnoreCase)
+                 && appt.Date.DayOfWeek == DayOfWeek.Monday)
             {
-                ModelState.AddModelError(nameof(appt.ClientName),
-                    "Please enter your name");
-            }
-            if(ModelState.GetValidationState("Date")
-                == ModelValidationState.Valid && DateTime.Now > appt.Date)
-            {
-                ModelState.AddModelError(nameof(appt.Date),
-                    "Please enter a date in the future");
-            }
-            if (!appt.TermsAccepted)
-            {
-                ModelState.AddModelError(nameof(appt.TermsAccepted),
-                    "You must accept the terms");
+                ModelState.AddModelError("",
+                        "Joe cannot book appointments on Modays");
             }
 
             if (ModelState.IsValid)

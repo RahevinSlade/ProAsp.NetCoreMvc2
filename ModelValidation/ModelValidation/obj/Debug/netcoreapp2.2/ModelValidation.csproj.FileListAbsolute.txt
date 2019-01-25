@@ -1,3 +1,9 @@
+\\Mac\Home\Documents\Projects\ModelValidation\ModelValidation\obj\Debug\netcoreapp2.2\ModelValidation.csprojAssemblyReference.cache
+\\Mac\Home\Documents\Projects\ModelValidation\ModelValidation\obj\Debug\netcoreapp2.2\ModelValidation.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Projects\ModelValidation\ModelValidation\obj\Debug\netcoreapp2.2\ModelValidation.RazorAssemblyInfo.cache
+\\Mac\Home\Documents\Projects\ModelValidation\ModelValidation\obj\Debug\netcoreapp2.2\ModelValidation.RazorAssemblyInfo.cs
+\\Mac\Home\Documents\Projects\ModelValidation\ModelValidation\obj\Debug\netcoreapp2.2\ModelValidation.AssemblyInfoInputs.cache
+\\Mac\Home\Documents\Projects\ModelValidation\ModelValidation\obj\Debug\netcoreapp2.2\ModelValidation.AssemblyInfo.cs
 \\Mac\Home\Documents\Projects\ModelValidation\ModelValidation\bin\Debug\netcoreapp2.2\ModelValidation.deps.json
 \\Mac\Home\Documents\Projects\ModelValidation\ModelValidation\bin\Debug\netcoreapp2.2\ModelValidation.runtimeconfig.json
 \\Mac\Home\Documents\Projects\ModelValidation\ModelValidation\bin\Debug\netcoreapp2.2\ModelValidation.runtimeconfig.dev.json
@@ -5,12 +11,6 @@
 \\Mac\Home\Documents\Projects\ModelValidation\ModelValidation\bin\Debug\netcoreapp2.2\ModelValidation.pdb
 \\Mac\Home\Documents\Projects\ModelValidation\ModelValidation\bin\Debug\netcoreapp2.2\ModelValidation.Views.dll
 \\Mac\Home\Documents\Projects\ModelValidation\ModelValidation\bin\Debug\netcoreapp2.2\ModelValidation.Views.pdb
-\\Mac\Home\Documents\Projects\ModelValidation\ModelValidation\obj\Debug\netcoreapp2.2\ModelValidation.csprojAssemblyReference.cache
-\\Mac\Home\Documents\Projects\ModelValidation\ModelValidation\obj\Debug\netcoreapp2.2\ModelValidation.csproj.CoreCompileInputs.cache
-\\Mac\Home\Documents\Projects\ModelValidation\ModelValidation\obj\Debug\netcoreapp2.2\ModelValidation.RazorAssemblyInfo.cache
-\\Mac\Home\Documents\Projects\ModelValidation\ModelValidation\obj\Debug\netcoreapp2.2\ModelValidation.RazorAssemblyInfo.cs
-\\Mac\Home\Documents\Projects\ModelValidation\ModelValidation\obj\Debug\netcoreapp2.2\ModelValidation.AssemblyInfoInputs.cache
-\\Mac\Home\Documents\Projects\ModelValidation\ModelValidation\obj\Debug\netcoreapp2.2\ModelValidation.AssemblyInfo.cs
 \\Mac\Home\Documents\Projects\ModelValidation\ModelValidation\obj\Debug\netcoreapp2.2\ModelValidation.TagHelpers.input.cache
 \\Mac\Home\Documents\Projects\ModelValidation\ModelValidation\obj\Debug\netcoreapp2.2\ModelValidation.TagHelpers.output.cache
 \\Mac\Home\Documents\Projects\ModelValidation\ModelValidation\obj\Debug\netcoreapp2.2\ModelValidation.RazorCoreGenerate.cache
