@@ -15,7 +15,7 @@ namespace MvcModels.HomeController
             repository = repo;
         }
         // GET: /<controller>/
-        public IActionResult Index(int? id)
+        public IActionResult Index([FromQuery] int? id)//looking for id value
         {
             Person person;
             if (id.HasValue && (person = repository[id.Value]) != null)
@@ -26,6 +26,9 @@ namespace MvcModels.HomeController
                 return NotFound();
             }
         }
+
+        //public string Header([FromHeader(Name = "Accept-Language")] string accept) => $"Header: {accept}";
+        public ViewResult Header(HeaderModel model) => View(model);
 
         public ViewResult Create() => View(new Person());
 
