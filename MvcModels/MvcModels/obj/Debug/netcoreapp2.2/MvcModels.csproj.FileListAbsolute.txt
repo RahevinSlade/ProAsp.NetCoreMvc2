@@ -28,3 +28,4 @@
 \\Mac\Home\Documents\Projects\MvcModels\MvcModels\obj\Debug\netcoreapp2.2\Razor\Views\Home\Names.g.cshtml.cs
 \\Mac\Home\Documents\Projects\MvcModels\MvcModels\obj\Debug\netcoreapp2.2\Razor\Views\Home\Address.g.cshtml.cs
 \\Mac\Home\Documents\Projects\MvcModels\MvcModels\obj\Debug\netcoreapp2.2\Razor\Views\Home\Header.g.cshtml.cs
+\\Mac\Home\Documents\Projects\MvcModels\MvcModels\obj\Debug\netcoreapp2.2\Razor\Views\Home\Body.g.cshtml.cs
